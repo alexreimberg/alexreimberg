@@ -2,7 +2,7 @@
 
 Aficionado no estudo das ferramentas de ciência de dados, atualmente busco experiência no mercado dentro da área. 
 
-:books: Formado em **Engenharia Elétrica** pelo Centro Universitário FEI e Realizando **MBA de Data Science & Analytics** na USP Esalq  
+:books: Formado em **Engenharia Elétrica** pelo Centro Universitário FEI e Realizando **MBA em Data Science & Analytics** na USP Esalq  
 :briefcase: Trabalando na [RD: Raia Drogasil](https://rd.com.br/) como Analista de Projetos e Sistemas em Trade Marketing  
 
 :desktop_computer: Principais linguagens:
