@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, sou o Alex 👋
 
-<!--
-**alexreimberg/alexreimberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aficionado no estudo das ferramentas de ciência de dados, atualmente busco experiência no mercado dentro da área. 
 
-Here are some ideas to get you started:
+:books: Formado em **Engenharia Elétrica** pelo Centro Universitário FEI e Realizando **MBA de Data Science & Analytics** na USP Esalq  
+:briefcase: Trabalando na [RD: Raia Drogasil](https://rd.com.br/) como Analista de Projetos e Sistemas em Trade Marketing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:desktop_computer: Principais linguagens:
+
+<div display="inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</div>  
+
+<a href="https://www.linkedin.com/in/alex-gomes-reimberg-783741158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+
+<div display="inline">
+<img align="center" height='180' src="https://github-readme-stats.vercel.app/api?username=alexreimberg&count_private=true&theme=dark" />
+<img align="center" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexreimberg&layout=compact&theme=dark" />
+</div>
