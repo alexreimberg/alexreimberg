@@ -17,6 +17,6 @@ Aficionado no estudo das ferramentas de ciência de dados, atualmente busco expe
 
 
 <div display="inline">
-<img align="center" height='180cm' src="https://github-readme-stats.vercel.app/api?username=alexreimberg&count_private=true&theme=dark" />
-<img align="center" height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexreimberg&layout=compact&theme=dark" />
+<img align="center" height='150cm' src="https://github-readme-stats.vercel.app/api?username=alexreimberg&count_private=true&theme=dark" />
+<img align="center" height='150cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexreimberg&layout=compact&theme=dark" />
 </div>
